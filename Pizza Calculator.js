@@ -25,10 +25,10 @@ document.write("<br/>")
 document.write("Prijs small pizzas = &euro;" + (SM * small));//geeft prijs small pizzas
 document.write("<br/>")
 
-document.write("Prijs small pizzas = &euro;" + (M * medium));//geeft prijs meduium pizzas
+document.write("Prijs meduium pizzas = &euro;" + (M * medium));//geeft prijs meduium pizzas
 document.write("<br/>")
 
-document.write("Prijs small pizzas = &euro;" + (L * large));//geft prijs large pizzas
+document.write("Prijs large pizzas = &euro;" + (L * large));//geft prijs large pizzas
 document.write("<br/>")
 document.write("<br/>")
 document.write("Prijs in totaal= &euro;" + (L * large + M * medium + SM * small));
